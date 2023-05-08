@@ -36,7 +36,6 @@ Here are the current limitations of the project.
 
 3. *No Tick data* 
 
-
    Using tick data is the gold standard when backtesting a strategy. This was not used in the backtests 
 
 4. *Walk Forward Analysis*
@@ -55,10 +54,14 @@ Here are the current limitations of the project.
 
    We used EURUSD on the 15-minute timeframe to run the backtests. The data starts from 2020-01-01 until 2022-12-31.
  
+8. *Strategies are not automagically composable*
+
+   You cannot take two strategies (i.e. entries) and form a new strategy and run a test.  
+
 Source Code 
 -----------
 
-You can get access to all of the source code on the `Github repo <https://github.com/zeta-zetra/code>`_.
+You can get access to all of the source code on this `Github repo <https://github.com/zeta-zetra/code>`_.
 
 
 Contact
