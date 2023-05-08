@@ -19,18 +19,20 @@ Sell Rules
 Sample of Signal Points 
 -----------------------
 
-.. image:: _build/_static/images/strategy-4.png
-  :target: _build/_static/images/strategy-4.png
+.. image:: /_static/images/pivot-extension.png
+  :target: /_static/images/pivot-extension.png
   :width: 1080
-  :alt: Pivot Points Signal Points
+  :alt: Pivot Extension Signal Points
 
 
 Results 
 -------
 
-.. csv-table:: Table 5 : Pivot Extension Algo for EURUSD (2020-01-1-01 until 2022-12-31)
-   :file: _build/_static/results/result-strategies-limited-4.csv
-   :header-rows: 1
+.. image:: /_static/results/pivot-extension.png
+   :target: /_static/results/pivot-extension.png
+   :width: 1080
+   :height: 500
+   :alt: Pivot Extension Results
 
 
 Source Code 

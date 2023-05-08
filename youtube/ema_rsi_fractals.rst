@@ -36,8 +36,8 @@ Sell Rules
 Sample of Signal Points 
 -----------------------
 
-.. image:: _build/_static/images/strategy-6.png
-  :target: _build/_static/images/strategy-6.png
+.. image:: /_static/images/ema-rsi-fractals.png
+  :target: /_static/images/ema-rsi-fractals.png
   :width: 1080
   :alt: EMA, RSI, Fractals Signal Points
 
@@ -45,9 +45,11 @@ Sample of Signal Points
 Results 
 -------
 
-.. csv-table:: Table 7 : EMA, RSI, Fractals Algo for EURUSD (2020-01-1-01 until 2022-12-31)
-   :file: _build/_static/results/result-strategies-limited-6.csv
-   :header-rows: 1
+.. image:: /_static/results/ema-rsi-fractals.png
+   :target: /_static/results/ema-rsi-fractals.png
+   :width: 1080
+   :height: 500
+   :alt: EMA, RSI, Fractals Results
 
 
 Source Code 

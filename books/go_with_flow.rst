@@ -12,8 +12,6 @@ Buy Rules
 
 
 
-
-
 Sell Rules 
 ----------
 
@@ -23,9 +21,20 @@ Sell Rules
 Sample Signal Points
 --------------------
 
+.. image:: /_static/images/go-with-the-flow.png
+  :target: /_static/images/go-with-the-flow.png
+  :width: 1080
+  :alt: Go with the Flow Signal Points
+
 
 Results 
 -------
+
+.. image:: /_static/results/go-with-the-flow.png
+   :target: /_static/results/go-with-the-flow.png
+   :width: 1080
+   :height: 500
+   :alt: Go with the Flow Results
 
 
 Source Code 

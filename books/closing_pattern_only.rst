@@ -29,9 +29,19 @@ Sell Rules
 Sample Signal Points
 --------------------
 
+.. image:: /_static/images/closing-pattern-only.png
+  :target: /_static/images/closing-pattern-only.png
+  :width: 1080
+  :alt: Closing Pattern Only Signal Points
 
 Results 
 -------
+
+.. image:: /_static/results/closing-pattern-only.png
+   :target: /_static/results/closing-pattern-only.png
+   :width: 1080
+   :height: 500
+   :alt: Closing Pattern Only Results
 
 
 Source Code 

@@ -19,8 +19,8 @@ Sell Rules
 Sample of Signal Points 
 -----------------------
 
-.. image:: _build/_static/images/strategy-3.png
-  :target: _build/_static/images/strategy-3.png
+.. image:: /_static/images/tit-for-tat.png
+  :target: /_static/images/tit-for-tat.png
   :width: 1080
   :alt: Tit for Tat Signal Points
 
@@ -28,9 +28,12 @@ Sample of Signal Points
 Results 
 -------
 
-.. csv-table:: Table 4 : Tit for Tat Algo for EURUSD (2020-01-1-01 until 2022-12-31)
-   :file: _build/_static/results/result-strategies-limited-3.csv
-   :header-rows: 1
+.. image:: /_static/results/tit-for-tat.png
+   :target: /_static/results/tit-for-tat.png
+   :width: 1080
+   :height: 500
+   :alt: Tit for Tat Results
+
 
 
 Source Code 

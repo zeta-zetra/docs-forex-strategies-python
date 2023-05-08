@@ -27,8 +27,8 @@ Sell Rules
 Sample of Signal Points 
 -----------------------
 
-.. image:: _build/_static/images/strategy-5.png
-  :target: _build/_static/images/strategy-5.png
+.. image:: /_static/images/dusty-musty-crusty.png
+  :target: /_static/images/dusty-musty-crusty.png
   :width: 1080
   :alt: Simple Dusty Musty Crusty Signal Points
 
@@ -36,10 +36,11 @@ Sample of Signal Points
 Results 
 -------
 
-.. csv-table:: Table 6 : Simple Dusty Musty Crusty for EURUSD (2020-01-1-01 until 2022-12-31)
-   :file: _build/_static/results/result-strategies-limited-5.csv
-   :header-rows: 1
-
+.. image:: /_static/results/dusty-musty-crusty.png
+   :target: /_static/results/dusty-musty-crusty.png
+   :width: 1080
+   :height: 500
+   :alt: Simple Dusty Musty Crusty Results
 
 Source Code 
 -----------

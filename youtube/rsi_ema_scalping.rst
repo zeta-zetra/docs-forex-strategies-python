@@ -23,8 +23,8 @@ Sell Rules
 Sample of Signal Points 
 -----------------------
 
-.. image:: _build/_static/images/strategy-7.png
-  :target: _build/_static/images/strategy-7.png
+.. image:: /_static/images/rsi-ema-scalping.png
+  :target: /_static/images/rsi-ema-scalping.png
   :width: 1080
   :alt: RSI and EMA Scalping Signal Points
 
@@ -32,10 +32,11 @@ Sample of Signal Points
 Results 
 -------
 
-.. csv-table:: Table 12 : RSI and EMA Scalping for EURUSD (2020-01-1-01 until 2022-12-31)
-   :file: _build/_static/results/result-strategies-limited-7.csv
-   :header-rows: 1
-
+.. image:: /_static/results/rsi-ema-scalping.png
+   :target: /_static/results/rsi-ema-scalping.png
+   :width: 1080
+   :height: 500
+   :alt: RSI and EMA Scalping Results
 
 Source Code 
 -----------

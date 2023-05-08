@@ -29,8 +29,8 @@ Sell Rules
 Sample of Signal Points 
 -----------------------
 
-.. image:: _build/_static/images/strategy-1.png
-  :target: _build/_static/images/strategy-1.png
+.. image:: /_static/images/parabolic.png
+  :target: /_static/images/parabolic.png
   :width: 1080
   :alt: Parabolic SAR Signal Points
 
@@ -38,10 +38,11 @@ Sample of Signal Points
 Results 
 -------
 
-.. csv-table:: Table 2 : Parabolic SAR for EURUSD (2020-01-1-01 until 2022-12-31)
-   :file: _build/_static/results/result-strategies-limited-1.csv
-   :header-rows: 1
-
+.. image:: /_static/results/parabolic.png
+   :target: /_static/results/parabolic.png
+   :width: 1080
+   :height: 500
+   :alt: Parabolic Results
 
 Source Code 
 -----------

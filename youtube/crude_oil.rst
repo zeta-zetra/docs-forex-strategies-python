@@ -30,18 +30,20 @@ Sell Rules
 Sample of Signal Points 
 -----------------------
 
-.. image:: _build/_static/images/strategy-2.png
-  :target: _build/_static/images/strategy-2.png
+.. image:: /_static/images/pullback-crude.png
+  :target: /_static/images/pullback-crude.png
   :width: 1080
-  :alt: Pullback - Crude Oil Signal Points
+  :alt: Pullback Crude Signal Points
 
 
 Results 
 -------
 
-.. csv-table:: Table 3 : Pullback for EURUSD (2020-01-1-01 until 2022-12-31)
-   :file: _build/_static/results/result-strategies-limited-2.csv
-   :header-rows: 1
+.. image:: /_static/results/pullback-crude.png
+   :target: /_static/results/pullback-crude.png
+   :width: 1080
+   :height: 500
+   :alt: Pullback Crude Results
 
 
 Source Code 

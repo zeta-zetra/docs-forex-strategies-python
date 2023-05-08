@@ -30,18 +30,20 @@ Sell Rules
 Sample of Signal Points 
 -----------------------
 
-.. image:: _build/_static/images/strategy-8.png
-  :target: _build/_static/images/strategy-8.png
+.. image:: /_static/images/three-line-strike.png
+  :target: _/_static/images/three-line-strike.png
   :width: 1080
-  :alt: EMA Scalping Signal Points
+  :alt: Three Line Strike Signal Points
 
 
 Results 
 -------
 
-.. csv-table:: Table 9 : Three Line Strike for EURUSD (2020-01-1-01 until 2022-12-31)
-   :file: _build/_static/results/result-strategies-limited-8.csv
-   :header-rows: 1
+.. image:: /_static/results/three-line-strike.png
+   :target: /_static/results/three-line-strike.png
+   :width: 1080
+   :height: 500
+   :alt: Three Line Strike Results
 
 
 Source Code 

@@ -32,9 +32,19 @@ Sell Rules
 Sample Signal Points
 --------------------
 
+.. image:: /_static/images/three-amigos.png
+  :target: /_static/images/three-amigos.png
+  :width: 1080
+  :alt: Three Amigos Signal Points
 
 Results 
 -------
+
+.. image:: /_static/results/three-amigos.png
+   :target: /_static/results/three-amigos.png
+   :width: 1080
+   :height: 500
+   :alt: Three Amigos Results
 
 
 Source Code 

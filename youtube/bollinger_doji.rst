@@ -31,8 +31,8 @@ Sell Rules
 Sample of Signal Points 
 -----------------------
 
-.. image:: _build/_static/images/strategy-8.png
-  :target: _build/_static/images/strategy-8.png
+.. image:: /_static/images/bollinger-doji.png
+  :target: /_static/images/bollinger-doji.png
   :width: 1080
   :alt: Bollinger Doji Signal Points
 
@@ -40,9 +40,11 @@ Sample of Signal Points
 Results 
 -------
 
-.. csv-table:: Table 10 : Bollinger Bands and Doji for EURUSD (2020-01-1-01 until 2022-12-31)
-   :file: _build/_static/results/result-strategies-limited-8.csv
-   :header-rows: 1
+.. image:: /_static/results/bollinger-doji.png
+   :target: /_static/results/bollinger-doji.png
+   :width: 1080
+   :height: 500
+   :alt: Bollinger Doji Results
 
 
 Source Code 
