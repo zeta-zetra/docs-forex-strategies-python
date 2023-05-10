@@ -27,3 +27,4 @@ YouTube channels
 Books
 ------
 
+1. Davey, Kevin. "Entry and Exit Confessions of a Champion Trader." - `Amazon link <https://www.amazon.com/Entry-Exit-Confessions-Champion-Trader/dp/1095328557>`_
