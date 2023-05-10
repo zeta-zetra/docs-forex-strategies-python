@@ -16,12 +16,15 @@ Here are the strategy details from ChatGPT:
     
 
 Sample Signal Points
---------------------
+---------------------
+
 
 .. image:: /_static/images/atr-breakout-range-bound.png
   :target: /_static/images/atr-breakout-range-bound.png
   :width: 1080
   :alt: Range-Bound ATR and Breakout Points
+
+
 
 Results 
 -------

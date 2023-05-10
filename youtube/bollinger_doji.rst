@@ -29,7 +29,7 @@ Sell Rules
 
 
 Sample of Signal Points 
------------------------
+-------------------------
 
 
 .. image:: /_static/images/bollinger-doji.png

@@ -23,12 +23,14 @@ Sell Rules
 
 
 Sample Signal Points
---------------------
+----------------------
+
 
 .. image:: /_static/images/chande-entry.png
   :target: /_static/images/chande-entry.png
   :width: 1080
   :alt: Chande entry Signal Points
+
 
 
 Results 

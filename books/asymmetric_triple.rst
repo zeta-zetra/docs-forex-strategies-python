@@ -27,12 +27,13 @@ Sell Rules
 
 
 Sample Signal Points
---------------------
+----------------------
 
 .. image:: /_static/images/asymmetric-triple.png
   :target: /_static/images/asymmetric-triple.png
   :width: 1080
   :alt: Asymmetric Triple Points
+
 
 Results 
 -------
