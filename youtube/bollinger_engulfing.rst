@@ -34,18 +34,13 @@ Sell Rules
 Sample of Signal Points 
 -----------------------
 
-.. image:: _build/_static/images/strategy-8.png
-  :target: _build/_static/images/strategy-8.png
-  :width: 1080
-  :alt: Bollinger Bands and Engulfing Signal Points
+
 
 
 Results 
 -------
 
-.. csv-table:: Table 11 : Bollinger Bands and Engulfing for EURUSD (2020-01-1-01 until 2022-12-31)
-   :file: _build/_static/results/result-strategies-limited-8.csv
-   :header-rows: 1
+
 
 
 Source Code 

@@ -34,6 +34,8 @@ Sample Signal Points
   :width: 1080
   :alt: Closing Pattern Only Signal Points
 
+
+
 Results 
 -------
 
