@@ -31,10 +31,12 @@ Sell Rules
 Sample of Signal Points 
 -----------------------
 
+
 .. image:: /_static/images/bollinger-doji.png
   :target: /_static/images/bollinger-doji.png
   :width: 1080
   :alt: Bollinger Doji Signal Points
+
 
 
 Results 
