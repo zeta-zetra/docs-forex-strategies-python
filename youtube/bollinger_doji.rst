@@ -1,5 +1,5 @@
 Bollinger Bands and Doji candlestick
-====================================
+=====================================
 
 This strategy uses the famous Bollinger Bands and the Doji candlestick. Here is the source for the `strategy <https://www.youtube.com/watch?v=LNQUvN7_NUQ>`_.
 

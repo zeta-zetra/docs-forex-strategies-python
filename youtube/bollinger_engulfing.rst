@@ -1,5 +1,5 @@
 Bollinger Bands and Engulfing candlestick
-=========================================
+===========================================
 
 This strategy uses the famous Bollinger Bands and the Engulfing candlestick. Here is the source for the `strategy <https://www.youtube.com/watch?v=LNQUvN7_NUQ>`_.
 

@@ -1,5 +1,5 @@
 Three Line Strike
-==================
+====================
 
 This scalping strategy is from a YouTube channel called, `The Moving Average <https://www.youtube.com/@TheMovingAverage>`_. It uses the engulfing candlestick pattern for entries.
 

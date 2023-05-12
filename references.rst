@@ -1,5 +1,5 @@
 References 
-==========
+===========
 
 Here we list all the sources that were consulted for strategies or helped in one form or another. 
 
@@ -23,6 +23,8 @@ YouTube channels
 
 6. @parttimelarry. 2019. Part Time Larry. YouTube. https://www.youtube.com/@parttimelarry/featured
 
+
+7. @neurotrader888. 2021. neurotrader. YouTube. https://www.youtube.com/@neurotrader888/featured
 
 Books
 ------

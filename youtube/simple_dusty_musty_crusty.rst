@@ -1,5 +1,5 @@
 Simple Dusty Musty Crusty
-=========================
+===========================
 
 This is a complicated strategy but we have implemented the simple components of it to test. Here is the `source <https://www.youtube.com/watch?v=CPLkQQDN-Xw&list=PL3Jd92exRxKTGkeWFT4V-z8Gu3svBJ6ap&index=14>`_.  
 

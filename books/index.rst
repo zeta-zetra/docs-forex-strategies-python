@@ -1,5 +1,5 @@
 Strategies from Books
-=====================
+======================
 
 
 .. toctree::
@@ -11,6 +11,14 @@ Strategies from Books
    rsi_trigger
    asymmetric_triple
    exponentially_better
+   filtered_entry
+   two_amigos
+   pitter_pattern
+   combo_1
+   combo_2
+   combo_3
+   combo_4
+   combo_5
    :maxdepth: 2
    :caption: Table of Contents
 

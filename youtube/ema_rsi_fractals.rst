@@ -1,5 +1,5 @@
 EMA, RSI and Fractals 
-=====================
+======================
 
 This is a scalping strategy from the "Moving Average" channel. The strategy uses the Williams Fractals, the RSI and 3 moving averages, 
 namely: the 21 MA, the 50 MA, and the 200 MA. Here is the `source <https://www.youtube.com/@TheMovingAverage>`_.  

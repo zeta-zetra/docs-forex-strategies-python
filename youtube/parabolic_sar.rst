@@ -1,5 +1,5 @@
 Parabolic SAR
-=============
+==============
 
 This is a simple strategy that uses the Parabolic SAR. Click `here <https://www.youtube.com/watch?v=gfRO2_QS6gM>`_ for the source of the strategy.
 

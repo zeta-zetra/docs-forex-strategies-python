@@ -1,5 +1,5 @@
 Tit for Tat Algo
-================
+=================
 
 This is quite a simple algo. Here is the `source <https://www.youtube.com/watch?v=k2NbKhvdmqA&list=PL3Jd92exRxKTGkeWFT4V-z8Gu3svBJ6ap&index=19>`_.  
 

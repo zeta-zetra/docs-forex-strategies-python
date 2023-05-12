@@ -1,5 +1,5 @@
 Range-Bound ATR and Breakout
-=============================
+==================================
 
 Here is the strategy name: Range-Bound Strategy with Average True Range (ATR) and Breakout Confirmation
 

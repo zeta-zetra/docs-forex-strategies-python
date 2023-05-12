@@ -81,6 +81,7 @@ We want to emphasize that this is purely for educational purposes only. We do no
    chatgpt/index
    blogs/index
    charts/index
+   results
    references
    :maxdepth: 2
    :caption: Table of Contents

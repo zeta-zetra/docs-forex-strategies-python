@@ -1,5 +1,5 @@
 Pullback Strategy
-==================
+===================
 
 This strategy was developed to be applied to `crude oil <https://www.youtube.com/watch?v=bdi6zQ7g-r4&t>`_. Now, we have applied it to the forex market. 
 

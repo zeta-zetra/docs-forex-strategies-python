@@ -1,5 +1,5 @@
 Moving Average and Oscillators
-================================
+=====================================
 
 Here is the strategy name: Range-Bound Strategy with Moving Averages and Oscillators
 

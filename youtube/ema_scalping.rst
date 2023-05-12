@@ -1,5 +1,5 @@
 EMA Scalping
-=============
+===============
 
 The strategy only uses three moving averages. The 50 EMA, the 100 EMA and the 150 EMA. Here is the `source <https://www.youtube.com/watch?v=ybmep_u5MeU>`_
 

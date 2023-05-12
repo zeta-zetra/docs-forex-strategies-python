@@ -1,5 +1,5 @@
 RSI and EMA Scalping
-====================
+======================
 
 The strategy uses the RSI and EMA indicators. Here is the `source <https://www.youtube.com/watch?v=MzEX4XumtEE>`_
 

@@ -1,5 +1,5 @@
 Pivot Extension Algo
-====================
+======================
 
 This is a pivot based algo. Here is the `source <https://www.youtube.com/watch?v=ylPJoD25zhE&list=PL3Jd92exRxKTGkeWFT4V-z8Gu3svBJ6ap&index=18>`_.  
 
