@@ -84,6 +84,7 @@ We want to emphasize that this is purely for educational purposes only. We do no
    chatgpt/index
    blogs/index
    charts/index
+   candlestick/index
    results
    references
    :maxdepth: 2
