@@ -8,5 +8,6 @@ Here we test the performance of Candlestick patterns.
    harami
    engulfing
    doji_star
+   dark_cloud_cover
    :maxdepth: 2
    :caption: Table of Contents
