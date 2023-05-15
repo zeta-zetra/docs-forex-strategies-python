@@ -15,6 +15,12 @@ The bullish engulfing pattern is a two-candle formation that signals a potential
     2. The second candle is a larger bullish candle that completely engulfs the previous bearish candle, indicating a shift in momentum.
     3. The bullish engulfing pattern often forms at significant support levels or after a period of selling exhaustion.
 
+.. image:: /_static/images/bullish-engulfing-pattern.png
+  :target: /_static/images/bullish-engulfing-pattern.png
+  :width: 500
+  :alt: bullish-engulfing-pattern
+
+
 The Psychology of the Bullish Engulfing Pattern
 ------------------------------------------------
 The bullish engulfing pattern carries important psychological implications for market participants. When this pattern emerges, it signifies a shift in sentiment from bearishness to bullishness. Here's a breakdown of the psychology behind the bullish engulfing pattern:
@@ -32,6 +38,11 @@ The bearish engulfing pattern is the opposite of its bullish counterpart, signal
     1. The first candle is a smaller bullish candle, representing buying pressure.
     2. The second candle is a larger bearish candle that engulfs the previous bullish candle, suggesting a shift in momentum and a possible trend reversal.
     3. The bearish engulfing pattern is frequently observed at significant resistance levels or after a period of buying exhaustion.
+
+.. image:: /_static/images/bearish-engulfing-pattern.png
+  :target: /_static/images/bearish-engulfing-pattern.png
+  :width: 500
+  :alt: bearish-engulfing-pattern
 
 
 The Psychology of the Bearish Engulfing Pattern
@@ -60,7 +71,7 @@ For this particular analysis, we worked with the following parameters:
    -  Data Source: Dukascopy 
 
 Backtesting the Engulfing bullish and bearish strategy
----------------------------------------------------
+-------------------------------------------------------
 
 Backtesting the Engulfing candlestick pattern by initiating long positions on the bullish Engulfing and short positions on the bearish Engulfing, while experimenting with various exit strategies, plays a vital role in assessing the efficacy of this trading methodology. Through the utilization of historical price data and the establishment of precise trading rules, traders can simulate trades based on the occurrence of Engulfing patterns. 
 
@@ -85,7 +96,7 @@ By subjecting the strategy to diverse exit strategies, the profitability and res
 
 
 Backtesting the Engulfing candlestick and Pivot Points strategy
--------------------------------------------------------------
+----------------------------------------------------------------
 
 In our rigorous testing, we've explored two versions of this strategy that we can't wait to share with you. But that's not all - we're also going to push the boundaries and test it across a range of diverse exit strategies. Before we delve deeper, let's take a moment to introduce the pivot points that play a pivotal role in our analysis. The pivot points we use are:
  
