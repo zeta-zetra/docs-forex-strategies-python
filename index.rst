@@ -6,6 +6,10 @@
 Forex Strategies tested in Python
 =================================
 
+.. meta:: 
+   :name: google-site-verification
+   :content: A-twZ8lQDA0wjhOnm46byhk8CJHnAdfOaxxCRfBH4pc
+
 The main aim of this project is to collect strategies in one place. This will serve
 as a resource for trading ideas and start up code that can be used to backtest
 them. 
