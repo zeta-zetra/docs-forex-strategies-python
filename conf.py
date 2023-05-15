@@ -29,6 +29,7 @@ favicons = [
 
 html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
+html_js_files = ["js/google_analytics.js", "js/google_tag.js"]
 
 html_title = "Forex Strategies"
 
