@@ -13,5 +13,6 @@ These are strategies generated with ChatGPT, May 3 Version.
    donchian_channel_candlestick
    triple_ma_macd
    parabolic_adx
+   coppock
    :maxdepth: 2
    :caption: Table of Contents
